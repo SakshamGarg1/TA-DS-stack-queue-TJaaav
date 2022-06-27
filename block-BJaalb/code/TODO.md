@@ -155,7 +155,7 @@ console.log(stack.remove()); // => 10
 
 console.log(stack.isEmpty()); // true
 
-// Test 2
+// Test 2/
 
 const stack2 = new Stack(4);
 
